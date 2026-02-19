@@ -1,5 +1,6 @@
 #include <iostream>
 
 int main() {
-    std::cout << "gello" << '\n';
+    std::cout << "fichA" << '\n';
+    std::cout << "work" << '\n';
 }
